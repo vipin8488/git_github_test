@@ -1,3 +1,1 @@
-hey its vipin here 
-now this is the 2nd change gonna be seen using feature branch 
-
+welcome to chat app.
